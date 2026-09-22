@@ -150,7 +150,7 @@ function App() {
             <div className="preview-wrap">
               <div className="preview-label">CERTIFICATE PREVIEW</div>
               <div id="certificate" className="certificate">
-                <img className="certificate-bg" src="assets/certificate-template.png" alt="SIH certificate template" />
+                <img className="certificate-bg" src="assets/certificate-template11.png" alt="SIH certificate template" />
                 <div className="cert-heading">
                   {/* <div className="heading-main">Certificate</div>
                   <div className="heading-sub">OF PARTICIPATION</div> */}
