@@ -387,7 +387,7 @@ window.SIH_STUDENTS = [
   },
   {
     phone: "6265209067",
-    name: "Jeetendra Kumar kabirpanthi",
+    name: "Jeetendra Kumar",
     team: "",
     certificateId: "SIH26-BIRTS-0015",
     college: "Bansal Institute of Research, Technology and Science, Bhopal",
