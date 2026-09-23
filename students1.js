@@ -459,7 +459,7 @@ window.SIH_STUDENTS = [
   },
   {
     phone: "7828464047",
-    name: "Prachi",
+    name: "Prachi Mishra",
     team: "",
     certificateId: "SIH26-BIRTS-0024",
     college: "Bansal Institute of Research, Technology and Science, Bhopal",
