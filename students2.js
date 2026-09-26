@@ -636,7 +636,7 @@ window.SIH_STUDENTS = [
   },
   {
     phone: "9399174812",
-    name: "Pratiksha dangi",
+    name: "Pratiksha dangii",
     team: "",
     certificateId: "SIH26-BIRTS-0077",
     college: "Bansal Institute of Research, Technology and Science, Bhopal",
