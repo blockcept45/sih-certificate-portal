@@ -40,14 +40,7 @@ window.SIH_STUDENTS = [
     college: "Bansal Institute of Research, Technology and Science, Bhopal",
     eventDate: "25 August 2026"
   },
-  {
-    phone: "9399174812",
-    name: "Prathana Agrawal",
-    team: "",
-    certificateId: "SIH26-BIRTS-0032",
-    college: "Bansal Institute of Research, Technology and Science, Bhopal",
-    eventDate: "25 August 2026"
-  },
+  
   {
     phone: "7898184708",
     name: "Prashant chouksey",
@@ -371,7 +364,7 @@ window.SIH_STUDENTS = [
   },
   {
     phone: "9399174812",
-    name: "Pratiksha dangi",
+    name: "Pratiksha dangii",
     team: "",
     certificateId: "SIH26-BIRTS-0013",
     college: "Bansal Institute of Research, Technology and Science, Bhopal",
